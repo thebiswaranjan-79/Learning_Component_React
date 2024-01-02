@@ -6,7 +6,7 @@ import Component1 from './Component1';
 import Todo1 from './Todo1';
 
 function App() {
-  const todos = ['Todo1', 'Todo 2', 'Todo 3']
+  const todos = [{data : 'Todo1', id : 312 }, {data : 'Todo2', id : 313 }, {data : 'Todo3', id : 213 }]
 
   return (
     <div className="App">
