@@ -11,4 +11,4 @@
 -> Rendering = there is 2 type of render - initial render and re render 
                         initial render -> react cals the root components 
                         re- render -> react only calls the components 
--> Commiting = Commit phase updates the UI 
+-> Commiting = Commit phase   updates the UI 
